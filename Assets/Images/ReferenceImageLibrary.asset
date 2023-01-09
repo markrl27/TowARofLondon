@@ -1,0 +1,59 @@
+%YAML 1.1
+%TAG !u! tag:unity3d.com,2011:
+--- !u!114 &11400000
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 0}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 848409ee8ba454f42a5ddff137688a27, type: 3}
+  m_Name: ReferenceImageLibrary
+  m_EditorClassIdentifier: 
+  m_GuidLow: 5438900029218683827
+  m_GuidHigh: 11338665651040755373
+  m_DataStore:
+    m_Storage: []
+  m_Images:
+  - m_SerializedGuid:
+      m_GuidLow: 5332104792803380197
+      m_GuidHigh: 185310804734996668
+    m_SerializedTextureGuid:
+      m_GuidLow: 15998055349365935854
+      m_GuidHigh: 13745204344861332186
+    m_Size: {x: 0.254, y: 0.23778309}
+    m_SpecifySize: 1
+    m_Name: Crown
+    m_Texture: {fileID: 2800000, guid: 33fe8eee8294de04da929dc486c6c0be, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 4688767676970561261
+      m_GuidHigh: 9713720137873368247
+    m_SerializedTextureGuid:
+      m_GuidLow: 1095738438796078725
+      m_GuidHigh: 3617379457232809160
+    m_Size: {x: 0.3, y: 0.22260001}
+    m_SpecifySize: 1
+    m_Name: Gate
+    m_Texture: {fileID: 2800000, guid: fb2e6e85d84d0f34c82c285e73833332, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5602505921028117032
+      m_GuidHigh: 208412801924047543
+    m_SerializedTextureGuid:
+      m_GuidLow: 1879192239215542058
+      m_GuidHigh: 13169895615354169705
+    m_Size: {x: 0.2, y: 0.253}
+    m_SpecifySize: 1
+    m_Name: Raven
+    m_Texture: {fileID: 2800000, guid: 9b1cff2a3b621a1469e928fa48dec4b6, type: 3}
+  - m_SerializedGuid:
+      m_GuidLow: 5569686441453170454
+      m_GuidHigh: 2592510302370526122
+    m_SerializedTextureGuid:
+      m_GuidLow: 17335672193505097825
+      m_GuidHigh: 8038474755354895738
+    m_Size: {x: 0.3, y: 0.41739133}
+    m_SpecifySize: 1
+    m_Name: Door
+    m_Texture: {fileID: 0}
